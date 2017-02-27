@@ -38,7 +38,7 @@ correlations (or their absence) between certain demographic groups and certain
 budget items? The answer is far from straightforward and this is very much
 work in progress. So far it is mostly an exercise in
 
-+ various flavors of (genralized) linear models,
++ various flavors of (generalized) linear models,
 + model selection (best-subset and forward),
 + cross-validation,
 + dimensionality reduction (PCA, PLS, and CCA).
