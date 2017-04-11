@@ -1,4 +1,4 @@
-# Berlin
+## Berlin
 ## Some lesser known facts about Berlin
 Both the budget of Berlin and a wealth of demographic data about this fine city
 is openly and freely available on the interweb. This repository contains
