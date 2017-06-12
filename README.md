@@ -8,7 +8,7 @@ data, some of which are showcased on
 
 ### 1. Budget
 Extract, collect, and examine the budget of both the city and the state of
-Berlin from published data. Note that this is only for what the powers that be _planned_ or _plan_ to spend. Much less data is available on what the actually
+Berlin from published data. Note that this is only for what the powers that be _planned_ or _plan_ to spend. Much less data is available on what they actually
 _did_ spend (and that's not counting BBI Airport).
 
 ### 2. Gentrification
