@@ -46,7 +46,7 @@ work in progress. So far it is mostly an exercise in
 A more elegant and more powerful way of approaching the same problem is then shown in the next notebook.
 
 ### 5. PlanBayesian
-Taking a probabilistic view on on the same problem and employing Monte-Carlo sampling in a Bayesian framework allows us to circumvent many of the problems we faced in assessing the wisdom of our city fathers in deploying their budget. Now that we have a clear picture, what do we see?
+Taking a probabilistic view on the same problem and employing Monte-Carlo sampling in a Bayesian framework allows us to circumvent many of the problems we faced in assessing the wisdom of our city fathers in deploying their budget. Now that we have a clear picture, what do we see?
 
 #### Specific dependencies
 + `pymc3 3.0`
