@@ -49,7 +49,7 @@ A more elegant and more powerful way of approaching the same problem is then sho
 Taking a probabilistic view on the same problem and employing Monte-Carlo sampling in a Bayesian framework allows us to circumvent many of the problems we faced in assessing the wisdom of our city fathers in deploying their budget. Now that we have a clear picture, what do we see?
 
 #### Specific dependencies
-+ `pymc3 3.0`
++ `pymc3 3.1`
 + `theano 0.9`
 
 ## General Dependencies
